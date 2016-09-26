@@ -1,3 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Application>
+  <NavigationItems>
+    <Items>
+      <Item Id="Default">
+        <Items>
+          <Item Id="Task_ListView" Index="0" />
+          <Item Id="Group_ListView" Index="1" />
+          <Item Id="ReportsV2" ViewId="ReportDataV2_ListView" ObjectKey="" Caption="Reports" Index="2" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Reports">
+        <Items>
+          <Item Id="ReportsV2" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="16.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="16.1.6.0" IsNewNode="True" />
+  </SchemaModules>
 </Application>

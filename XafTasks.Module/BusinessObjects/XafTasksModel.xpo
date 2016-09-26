@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9b8fd4a3-e7b2-4cea-9baf-bd2f2de475ad" dbName="XafTasksDB" connectionInfo="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3MgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6eHNkPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYSIgcHJvdmlkZXJLZXk9Ik1TU3FsU2VydmVyIj4NCiAgPHBhcmFtZXRlcj4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0ic2VydmVyIiB2YWx1ZT0iLlxTUUxFeHByZXNzIiAvPg0KICAgIDxDb25uZWN0aW9uUGFnZVNldHRpbmdzSXRlbSBuYW1lPSJkYXRhYmFzZSIgdmFsdWU9IlhhZlRhc2tzREIiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InVzZUludGVncmF0ZWRTZWN1cml0eSIgdmFsdWU9IlRydWUiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InVzZXJpZCIgdmFsdWU9IiIgLz4NCiAgICA8Q29ubmVjdGlvblBhZ2VTZXR0aW5nc0l0ZW0gbmFtZT0icGFzc3dvcmQiIHZhbHVlPSIiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9InJlYWQgb25seSIgdmFsdWU9IjEiIC8+DQogICAgPENvbm5lY3Rpb25QYWdlU2V0dGluZ3NJdGVtIG5hbWU9ImdlbmVyYXRlQ29ubmVjdGlvbkhlbHBlciIgdmFsdWU9InRydWUiIC8+DQogIDwvcGFyYW1ldGVyPg0KPC9EZXZFeHByZXNzWHBvR2VuZXJhdG9yU2V0dGluZ3M+" namespace="XafTasks.Module.BusinessObjects.XafTasksDB" connectionString="XpoProvider=MSSqlServer;data source=.\SQLExpress;integrated security=SSPI;initial catalog=XafTasksDB" dataBaseShemaInfo="H4sIAAAAAAAEAN1Y224bNxB9D5B/EPzs0fK6JIO1gtZODaMXBLFT9HVIDm0h0krYi+3+fbmWrFhO0rqoKgF5EZaHQ3AOecg5VPX2fj4b3VLTThf1yREfs6O3k9evqh+xpctu0eA1XdRpMcpRdfvmvp2eHN103fJNUdzd3Y3v5HjRXBeCMV788esvl+GG5gjTuu2wDnS0GRX/edRRnnU0qq7Qz6gdpnxoPyJPgEfoN5zT5ArbT1Xxub0JeVcP2KRreqqKdWPTeTZtB+DjMmJHk4SzNgdtg5vY834aL+JEOfRKlAyMDAGU1xowJg0BWSlJs0TSVsU6eDP4dDHr53W7lf034dwxcFh1Tq6m3Sxn9QTZivw7fv+W41OeMTm03JZAWhIopxEwkQEpJSIFh8LLL3jm4cV/oHreLPrl/qkGJoNXpQTryYPKGwle2wiaadICvZfC7Zrq6WK+nFFHcf90iVsZtUogFRegQohgjVeZs5BcGGvQmF3Tveyw6c5yRgcQMlpjmdSQ7EBXqQiu9AZYSlILzaQKetd0z3o6DFnBZWCiFOC94aCSNOBdzFJWyZVC6dJ69T9IeU511x7g4DrBUVgDZIllJTMCn1cACLEUkQQjfLmSv4auK8qLq9D6AttDGfK5DFntLPAULKjSJkAvGUTvozaCec1pp2Vo+DzA4TWRhsIKVPp8eHUutB6NACZ8dDZrXOn97vDgM36aDgV5D5uMPBpOUUGZtZwLE0lALgiEtEimlAr1br3GYTaZGalEQgcccy1SxAygS9lhkZL5Pgs6arbrS2vlF/fNVGebEXxS4HR2kMrkDc2WQ4PimusklKL0cqa7kvPFPHv7veiZUeLWGQeCTL60Yj7SjlT+yZe2Uibo5Px3oGfBYkKdyfFQJlAif1mKHIJxGBVH5Cx8H3oWEb3OlxEkrsuhCoVsPLwHlk0lmZTKknZuN7Kxwv0zVd5l50gpVx6ez6vVDDB4B8xzR5Elnlja6cldtz+HVMMrnOL7ZhEewFGxgn9fPdknZ3T77n7ZUNuOhyUa3/JyzI9H6+6ToTUux+x4dNrPur6hk5r6rsHZ8eh972fT8DP9ebX4RPWJtzZyo1U0jFF+7lbF4xQP853OsG2pHTbgQ79Z3eqHmFOjNL1f57WCLvu0BX2g+eKWngeu0Oexp9jS5GMdbrC+Ht5JD+3V0nwthyqvzJKabnrg3L6RRnVONTVZXo92ea3RL+Ct4DNqp9f5c7Acz0ds971+VRXP/quZ/AUL03sZ1BEAAA==" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="0978748a-f289-468b-9779-f67795c3a354">
+      <xpObject Id="49ab4260-73cc-4b55-adf5-ca063e50fe38" name="Task" baseClass="XPObject" userFileName="Task" designerFileName="Task.Designer" className="Task" virtualName="Task">
+        <fields>
+          <generalXpObjectHasFields Id="b242808a-6716-4e9e-80a7-e044b34cbb40">
+            <field Id="df9a8186-e53e-495a-afe7-333aaec9a2b3" name="Title" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d7637dca-444f-4607-9554-5d46239f9175">
+            <field Id="c03cb463-8beb-4a06-b58d-505e52abb329" name="Group" virtualColumnType="Group" logicalType="Group" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5db2b095-92f7-47f0-b6ab-8eb6ee747df4">
+            <field Id="e183d54f-3412-4ccd-87b4-b52312787a77" name="Completed" columnType="Boolean" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="5d29b515-57a0-4d32-8917-b0353d860cce">
+            <field Id="da878035-f812-444d-96b7-0ff3525034c5" name="StartDate" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="c5065728-75e6-476a-9d21-f65245aac17d">
+            <field Id="213c0262-bb71-4f37-b9dd-54f9624568b4" name="DueDate" columnType="DateTime" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9dcd8e51-9a0e-4349-b106-1cbfa0a41a73">
+            <field Id="c921a287-e8e0-4c0e-b213-eaa62de20ea7" name="Comments" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="e8e3f801-a3e0-49fd-b7c2-db278ce471f9" sourceCollectionName="TaskFiles" name="TaskFileReferencesTask" targetFieldName="Task">
+            <xpObjectMoniker Id="a1d71ed4-6e20-4ae3-a12e-238ae7634a58" />
+          </simpleAssociation>
+          <simpleAssociation Id="995220ba-8a4f-49b2-b30a-8bd8619a7040" sourceCollectionName="TaskImages" name="TaskImageReferencesTask" targetFieldName="Task">
+            <xpObjectMoniker Id="0ef18979-2e78-4db2-9e42-9213447c5f9b" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="70d4a3a6-d4e5-4dc4-ac40-803bdf2191b6">
+            <collectionField Id="e5264985-f7d7-4f22-b2f0-3e6ad3a07b3d" name="TaskFiles" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="fed653f4-c12f-4877-b660-7d7f1ebd7f68">
+            <collectionField Id="2a0b9d30-46a1-4fd8-bd10-dc1bae5701d4" name="TaskImages" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="721adf2e-4af0-4c81-a2f3-d58acc7e034d">
+      <xpObject Id="b9ab8598-1fc8-468f-ab30-dbbd5720b51e" name="Group" baseClass="XPObject" userFileName="Group" designerFileName="Group.Designer" className="Group" virtualName="Group">
+        <fields>
+          <generalXpObjectHasFields Id="06d512e7-35aa-4863-8652-c5f1913ef62e">
+            <field Id="d7dea063-e6b2-45f5-ba72-02bd98b71457" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="1fdabd66-b797-4880-ae01-4203a290a889" sourceCollectionName="Tasks" name="TaskReferencesGroup" targetFieldName="Group">
+            <xpObjectMoniker Id="49ab4260-73cc-4b55-adf5-ca063e50fe38" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="a7fe479d-cfc9-4d02-9779-fe702ba90d26">
+            <collectionField Id="d5b51604-dcc3-409b-a6ff-ab81250a4393" name="Tasks" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1dc8192c-5994-4f9b-873a-be4d8b342ac5">
+      <xpObject Id="a1d71ed4-6e20-4ae3-a12e-238ae7634a58" name="TaskFile" baseClass="XPObject" userFileName="TaskFile" designerFileName="TaskFile.Designer" className="TaskFile" virtualName="TaskFile">
+        <fields>
+          <generalXpObjectHasFields Id="472c2236-20bb-44ab-8eba-a580eda9cbb4">
+            <field Id="07342fa9-1acd-4e07-a9f0-7e4313cc5d50" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="fb728040-719d-4396-b03b-c3906f6f8e32">
+            <field Id="5b46cbf4-9560-47e3-beb5-41515f244ef0" name="Task" virtualColumnType="Task" logicalType="Task" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="78df341e-51b9-482b-88f3-3b77bfa2234e">
+      <xpObject Id="0ef18979-2e78-4db2-9e42-9213447c5f9b" name="TaskImage" baseClass="XPObject" userFileName="TaskImage" designerFileName="TaskImage.Designer" className="TaskImage" virtualName="TaskImage">
+        <fields>
+          <generalXpObjectHasFields Id="175aa8a6-a907-440e-ad98-347febdcb229">
+            <field Id="20dfa5b2-1c6f-42b2-8ed1-c79ad41aa10c" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="03fe60d4-ae81-4512-81c3-a0c4a95a7654">
+            <field Id="2dab538a-f156-468c-bbbb-0ccde7ff66e4" name="Task" virtualColumnType="Task" logicalType="Task" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

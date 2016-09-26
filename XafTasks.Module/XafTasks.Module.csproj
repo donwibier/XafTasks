@@ -104,6 +104,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessObjects\XafTasksModelCode\ConnectionHelper.cs" />
+    <Compile Include="BusinessObjects\XafTasksModelCode\Group.cs" />
+    <Compile Include="BusinessObjects\XafTasksModelCode\Group.Designer.cs">
+      <DependentUpon>Group.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\XafTasksModelCode\Task.cs" />
+    <Compile Include="BusinessObjects\XafTasksModelCode\Task.Designer.cs">
+      <DependentUpon>Task.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\XafTasksModelCode\TaskFile.cs" />
+    <Compile Include="BusinessObjects\XafTasksModelCode\TaskFile.Designer.cs">
+      <DependentUpon>TaskFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessObjects\XafTasksModelCode\TaskImage.cs" />
+    <Compile Include="BusinessObjects\XafTasksModelCode\TaskImage.Designer.cs">
+      <DependentUpon>TaskImage.cs</DependentUpon>
+    </Compile>
     <Compile Include="DatabaseUpdate\Updater.cs" />
     <Compile Include="Module.cs">
       <SubType>Component</SubType>
@@ -119,8 +136,13 @@
       <SubType>Designer</SubType>
       <DependentUpon>Module.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="BusinessObjects\XafTasksModel.xpo" />
+    <None Include="BusinessObjects\XafTasksModel.xpo.diagram">
+      <DependentUpon>XafTasksModel.xpo</DependentUpon>
+    </None>
     <None Include="DatabaseUpdate\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
